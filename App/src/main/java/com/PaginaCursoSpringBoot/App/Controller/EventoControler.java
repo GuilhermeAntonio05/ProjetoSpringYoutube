@@ -8,6 +8,6 @@ public class EventoControler {
 	
 	@GetMapping("/cadastrarEvento")
 	public String form() {
-		return "formEvento.html";
+		return "evento/formEvento.html";
 	}
 }
