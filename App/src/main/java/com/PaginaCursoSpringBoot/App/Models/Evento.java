@@ -1,4 +1,4 @@
-package com.PaginaCursoSpringBoot.Models;
+package com.PaginaCursoSpringBoot.App.Models;
 
 public class Evento {
 	private String nome;
