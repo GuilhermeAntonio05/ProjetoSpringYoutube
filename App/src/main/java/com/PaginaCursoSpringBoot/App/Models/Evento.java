@@ -1,6 +1,7 @@
 package com.PaginaCursoSpringBoot.App.Models;
 
 public class Evento {
+	
 	private String nome;
 	private String local;
 	private String data;
